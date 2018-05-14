@@ -1,4 +1,7 @@
 # F10_data_crawler
+请先参阅[https://github.com/mdxys/bmUtils]
+
+
 同花顺F10数据爬虫（市盈率市净率。。。）几十个指标
 
 本项目：
